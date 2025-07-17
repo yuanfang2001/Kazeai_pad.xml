@@ -6,15 +6,10 @@
     </MASTER_PAD_VERSION_INFO>
     <Company_Info>
       <Company_Name>Kaze.ai</Company_Name>
-      <Address_1></Address_1>
-      <City></City>
-      <State_Province></State_Province>
-      <Zip_Postal_Code></Zip_Postal_Code>
-      <Country></Country>
+      <State>California</State>
+      <Country>United States</Country>
       <Company_WebSite_URL>https://kaze.ai/</Company_WebSite_URL>
-      <Contact_First_Name></Contact_First_Name>
-      <Contact_Last_Name></Contact_Last_Name>
-      <Contact_Email_Primary>support@kaze.ai</Contact_Email_Primary>
+      <Contact_Email_Primary>kaze27416@gmail.com</Contact_Email_Primary>
     </Company_Info>
     <Program_Info>
       <Program_Name>Kaze.ai</Program_Name>
@@ -29,7 +24,7 @@
       <Program_Download_URL></Program_Download_URL>
       <Program_Screenshot_URL></Program_Screenshot_URL>
       <Program_Icon_File_URL></Program_Icon_File_URL>
-      <Program_Install_Support>No Install Support</Program_Install_Support>
+      <Program_Install_Support>No Install Required</Program_Install_Support>
       <Program_OS_Support>Web Application</Program_OS_Support>
       <Program_Language>English</Program_Language>
       <Program_Change_Info>Initial public release</Program_Change_Info>
