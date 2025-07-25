@@ -1,39 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<PAD>
-  <XML_DIZ_INFO>
-    <MASTER_PAD_VERSION_INFO>
-      <MASTER_PAD_VERSION>4.0</MASTER_PAD_VERSION>
-    </MASTER_PAD_VERSION_INFO>
-    <Company_Info>
-      <Company_Name>Kaze.ai</Company_Name>
-      <State>California</State>
-      <Country>United States</Country>
-      <Company_WebSite_URL>https://kaze.ai/</Company_WebSite_URL>
-      <Contact_Email_Primary>kaze27416@gmail.com</Contact_Email_Primary>
-    </Company_Info>
-    <Program_Info>
-      <Program_Name>Kaze.ai</Program_Name>
-      <Program_Release_Month>07</Program_Release_Month>
-      <Program_Release_Day>16</Program_Release_Day>
-      <Program_Release_Year>2025</Program_Release_Year>
-      <Program_Type>Application</Program_Type>
-      <Program_Category>Graphics::Editors</Program_Category>
-      <Program_Cost_Dollars>0</Program_Cost_Dollars>
-      <Program_Cost_Other>Free version available</Program_Cost_Other>
-      <Program_Information_URL>https://kaze.ai/</Program_Information_URL>
-      <Program_Download_URL></Program_Download_URL>
-      <Program_Screenshot_URL></Program_Screenshot_URL>
-      <Program_Icon_File_URL></Program_Icon_File_URL>
-      <Program_Install_Support>No Install Required</Program_Install_Support>
-      <Program_OS_Support>Web Application</Program_OS_Support>
-      <Program_Language>English</Program_Language>
-      <Program_Change_Info>Initial public release</Program_Change_Info>
-      <Program_Summary_300>Kaze.ai is an AI-powered photo editing platform that provides powerful tools for you to edit images with a few clicks, especially for watermark removal, old photo restoration, photo colorization, background removal, and AI headshot generation.</Program_Summary_300>
-      <Program_Description_2000>Kaze.ai is an advanced AI photo editing platform that enables users to enhance and modify images effortlessly. It offers features such as watermark removal, photo colorization, old photo restoration, background removal, and professional AI-generated headshots. Designed for simplicity and efficiency, Kaze.ai helps both professionals and hobbyists bring their photos to life.</Program_Description_2000>
-    </Program_Info>
-    <Permissions>
-      <Distribution_Permissions>You may distribute the link to this platform for public access and review.</Distribution_Permissions>
-      <EULA></EULA>
-    </Permissions>
-  </XML_DIZ_INFO>
-</PAD>
+<XML_DIZ_INFO>
+  <MASTER_PAD_VERSION_INFO>
+    <MASTER_PAD_VERSION>4.0</MASTER_PAD_VERSION>
+  </MASTER_PAD_VERSION_INFO>
+  <Company_Info>
+    <Company_Name>Kaze.ai</Company_Name>
+    <State_Province>California</State_Province>
+    <Country>United States</Country>
+    <Company_WebSite_URL>https://kaze.ai/</Company_WebSite_URL>
+    <Contact_Info>
+      <Contact_Email>kaze27416@gmail.com</Contact_Email>
+    </Contact_Info>
+  </Company_Info>
+  <Program_Info>
+    <Program_Name>Kaze.ai</Program_Name>
+    <Program_Release_Month>07</Program_Release_Month>
+    <Program_Release_Day>16</Program_Release_Day>
+    <Program_Release_Year>2025</Program_Release_Year>
+    <Program_Cost_Dollars>0</Program_Cost_Dollars>
+    <Program_Cost_Other>Free version available</Program_Cost_Other>
+    <Program_Type>Application</Program_Type>
+    <Program_Install_Support>No Install Required</Program_Install_Support>
+    <Program_OS_Support>Web Application</Program_OS_Support>
+    <Program_Language>English</Program_Language>
+    <Program_Change_Info>Initial public release</Program_Change_Info>
+    <Program_Category_Class>Graphics::Editors</Program_Category_Class>
+  </Program_Info>
+  <Program_Descriptions>
+    <English>
+      <Char_Desc_450>Kaze.ai is an AI-powered photo editing platform that provides powerful tools for you to edit images with a few clicks, especially for watermark removal, old photo restoration, photo colorization, background removal, and AI headshot generation.</Char_Desc_450>
+      <Char_Desc_2000>Kaze.ai is an advanced AI photo editing platform that enables users to enhance and modify images effortlessly. It offers features such as watermark removal, photo colorization, old photo restoration, background removal, and professional AI-generated headshots. Designed for simplicity and efficiency, Kaze.ai helps both professionals and hobbyists bring their photos to life.</Char_Desc_2000>
+    </English>
+  </Program_Descriptions>
+  <Web_Info>
+    <Application_URLs>
+      <Application_Info_URL>https://kaze.ai/</Application_Info_URL>
+    </Application_URLs>
+  </Web_Info>
+  <Permissions>
+    <Distribution_Permissions>You may distribute the link to this platform for public access and review.</Distribution_Permissions>
+  </Permissions>
+</XML_DIZ_INFO>
