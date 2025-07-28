@@ -1,39 +1,104 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<PAD>
-  <XML_DIZ_INFO>
-    <MASTER_PAD_VERSION_INFO>
-      <MASTER_PAD_VERSION>4.0</MASTER_PAD_VERSION>
-    </MASTER_PAD_VERSION_INFO>
-    <Company_Info>
-      <Company_Name>Kaze.ai</Company_Name>
-      <State>California</State>
-      <Country>United States</Country>
-      <Company_WebSite_URL>https://kaze.ai/</Company_WebSite_URL>
-      <Contact_Email_Primary>kaze27416@gmail.com</Contact_Email_Primary>
-    </Company_Info>
-    <Program_Info>
-      <Program_Name>Kaze.ai</Program_Name>
-      <Program_Release_Month>07</Program_Release_Month>
-      <Program_Release_Day>16</Program_Release_Day>
-      <Program_Release_Year>2025</Program_Release_Year>
-      <Program_Type>Application</Program_Type>
-      <Program_Category>Graphics::Editors</Program_Category>
-      <Program_Cost_Dollars>0</Program_Cost_Dollars>
-      <Program_Cost_Other>Free version available</Program_Cost_Other>
-      <Program_Information_URL>https://kaze.ai/</Program_Information_URL>
-      <Program_Download_URL></Program_Download_URL>
-      <Program_Screenshot_URL></Program_Screenshot_URL>
-      <Program_Icon_File_URL></Program_Icon_File_URL>
-      <Program_Install_Support>No Install Required</Program_Install_Support>
-      <Program_OS_Support>Web Application</Program_OS_Support>
-      <Program_Language>English</Program_Language>
-      <Program_Change_Info>Initial public release</Program_Change_Info>
-      <Program_Summary_300>Kaze.ai is an AI-powered photo editing platform that provides powerful tools for you to edit images with a few clicks, especially for watermark removal, old photo restoration, photo colorization, background removal, and AI headshot generation.</Program_Summary_300>
-      <Program_Description_2000>Kaze.ai is an advanced AI photo editing platform that enables users to enhance and modify images effortlessly. It offers features such as watermark removal, photo colorization, old photo restoration, background removal, and professional AI-generated headshots. Designed for simplicity and efficiency, Kaze.ai helps both professionals and hobbyists bring their photos to life.</Program_Description_2000>
-    </Program_Info>
-    <Permissions>
-      <Distribution_Permissions>You may distribute the link to this platform for public access and review.</Distribution_Permissions>
-      <EULA></EULA>
-    </Permissions>
-  </XML_DIZ_INFO>
-</PAD>
+<XML_DIZ_INFO>
+<MASTER_PAD_VERSION_INFO>
+<MASTER_PAD_VERSION>1.15</MASTER_PAD_VERSION>
+<MASTER_PAD_INFO>Portable Application Description, or PAD for short, is a data set that is used by shareware authors to disseminate information to anyone interested in their software products. To find out more go to http://www.asp-shareware.org/pad</MASTER_PAD_INFO>
+</MASTER_PAD_VERSION_INFO>
+<Company_Info>
+<Company_Name>Kaze.ai</Company_Name>
+<Address_1>Not Applicable</Address_1>
+<Address_2>Not Applicable</Address_2>
+<City_Town>San Francisco</City_Town>
+<State_Province>CA</State_Province>
+<Zip_Postal_Code>Not Applicable</Zip_Postal_Code>
+<Country>US</Country>
+<Company_WebSite_URL>https://kaze.ai/</Company_WebSite_URL>
+<Contact_Info>
+<Author_First_Name>Freya</Author_First_Name>
+<Author_Last_Name>Li</Author_Last_Name>
+<Author_Email>kaze27416@gmail.com</Author_Email>
+<Contact_First_Name>Freya</Contact_First_Name>
+<Contact_Last_Name>Li</Contact_Last_Name>
+<Contact_Email>kaze27416@gmail.com</Contact_Email>
+</Contact_Info>
+<Support_Info>
+<Sales_Email>kaze27416@gmail.com</Sales_Email>
+<Support_Email>kaze27416@gmail.com</Support_Email>
+<General_Email>kaze27416@gmail.com</General_Email>
+<Sales_Phone>Not Applicable</Sales_Phone>
+<Support_Phone>Not Applicable</Support_Phone>
+<General_Phone>Not Applicable</General_Phone>
+<Fax_Phone>Not Applicable</Fax_Phone>
+</Support_Info>
+</Company_Info>
+<Program_Info>
+<Program_Name>Kaze.ai</Program_Name>
+<Program_Version>1.0.0</Program_Version>
+<Program_Release_Month>07</Program_Release_Month>
+<Program_Release_Day>28</Program_Release_Day>
+<Program_Release_Year>2025</Program_Release_Year>
+<Program_Cost_Dollars>0</Program_Cost_Dollars>
+<Program_Cost_Other_Code/>
+<Program_Cost_Other>Free version available</Program_Cost_Other>
+<Program_Type>Freeware</Program_Type>
+<Program_Release_Status>New Release</Program_Release_Status>
+<Program_Install_Support>No Install Required</Program_Install_Support>
+<Program_OS_Support>Windows,Mac</Program_OS_Support>
+<Program_Language>English,Chinese,Spanish,Hindi,Russian</Program_Language>
+<File_Info>
+<Filename_Versioned/>
+<Filename_Previous/>
+<Filename_Generic/>
+<Filename_Long/>
+<File_Size_Bytes/>
+<File_Size_K/>
+<File_Size_MB/>
+</File_Info>
+<Expire_Info>
+<Has_Expire_Info>N</Has_Expire_Info>
+<Expire_Count/>
+<Expire_Based_On>Days</Expire_Based_On>
+<Expire_Other_Info/>
+<Expire_Month/>
+<Expire_Day/>
+<Expire_Year/>
+</Expire_Info>
+<Program_Specific_Category>Graphics</Program_Specific_Category>
+<Program_Categories>Photography,Graphics</Program_Categories>
+<Limitations>None</Limitations>
+<Program_Change_Info>Initial public release</Program_Change_Info>
+<Program_Category_Class>Graphics::Editors</Program_Category_Class>
+<Program_System_Requirements>Web browser access</Program_System_Requirements>
+<Includes_JAVA_VM>N</Includes_JAVA_VM>
+<Includes_VB_Runtime>N</Includes_VB_Runtime>
+<Includes_DirectX>N</Includes_DirectX>
+</Program_Info>
+<Program_Descriptions>
+<English>
+<Keywords>AI watermark removal, photo restoration, photo colorization, AI headshot generator, background remover</Keywords>
+<Char_Desc_45>AI Photo Editing Platform</Char_Desc_45>
+<Char_Desc_80>Kaze.ai: AI-Powered Image Editing Platform</Char_Desc_80>
+<Char_Desc_250>Kaze.ai is an advanced AI-powered image editor for watermark removal, restoration, recolorization, and more.</Char_Desc_250>
+<Char_Desc_450>Kaze.ai is an advanced AI-powered image editing platform that helps you restore, enhance, and personalize photos easily. Features include AI watermark removal, background cleanup, colorization, and headshot generation.</Char_Desc_450>
+<Char_Desc_2000>Kaze.ai is a browser-based AI photo editing platform designed to help users handle professional image enhancement tasks with ease. Whether you need to remove watermarks, restore old photos, generate headshots, recolor black-and-white images, or remove backgrounds, Kaze.ai provides efficient tools in one place — no download required. It’s ideal for e-commerce sellers, content creators, photographers, and everyday users seeking quality results with minimal effort.</Char_Desc_2000>
+</English>
+</Program_Descriptions>
+<Site>
+<Site_FORM>Y</Site_FORM>
+<Site_VERSION>1.0</Site_VERSION>
+<Site_URL>https://kaze.ai</Site_URL>
+<Site_DESCRIPTION>Kaze.ai: AI Image Editing Platform</Site_DESCRIPTION>
+<Site_Contact_Email>kaze27416@gmail.com</Site_Contact_Email>
+<Site_Contact_First_Name>Freya</Site_Contact_First_Name>
+<Site_Contact_Last_Name>Li</Site_Contact_Last_Name>
+<Site_Site_Title>Kaze.ai</Site_Site_Title>
+<Site_Site_URL>https://kaze.ai</Site_Site_URL>
+<Site_Description_100>Kaze.ai is an AI-powered image editor with watermark removal and headshot tools</Site_Description_100>
+<Site_Description_250>Kaze.ai offers browser-based photo enhancement and AI editing including watermark removal, recolorization, and background cleanup</Site_Description_250>
+<Site_Description_450>From content creators to e-commerce sellers, Kaze.ai helps you remove watermarks, restore images, generate AI headshots, and edit photos online with ease and precision</Site_Description_450>
+<Site_Keywords>AI photo editor, watermark remover, restore old photos, background remover, image recolorization, AI headshot</Site_Keywords>
+</Site>
+<Permissions>
+<Distribution_Permissions>You may distribute the link to this platform for public access and review.</Distribution_Permissions>
+<EULA/>
+</Permissions>
+</XML_DIZ_INFO>
